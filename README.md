@@ -26,6 +26,9 @@ docker pull merabro/turtlebot3-sim:latest
 1. Start Xming:
    - Run Xming from the Start menu
    - It will appear in your system tray (near clock)
+  
+     ![image](https://github.com/user-attachments/assets/68946471-4e51-4f82-83f9-f7ab51d9eaab)
+
 
 ## Running the Simulation
 
