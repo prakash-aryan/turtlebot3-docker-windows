@@ -4,6 +4,7 @@ This repository contains a Dockerized setup for running TurtleBot3 simulation wi
 
 ## Prerequisites
 
+0. Install [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
 1. Install [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/)
 2. Install [Xming X Server](https://sourceforge.net/projects/xming/) - This is required for displaying GUI applications from Docker
 
