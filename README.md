@@ -3,7 +3,8 @@
 
 This repository contains a Dockerized setup for running TurtleBot3 simulation with SLAM and Navigation capabilities using ROS Noetic on Windows. The setup includes Gazebo simulation, SLAM, and autonomous navigation capabilities.
 
-https://github.com/user-attachments/assets/5b6975e3-d051-429a-8e6a-e2566b47e255
+https://github.com/user-attachments/assets/08ef5b0b-3a20-4acf-a601-7cb4489eec45
+
 
 ## Prerequisites
 
